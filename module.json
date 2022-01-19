@@ -79,6 +79,9 @@
       "path": "packs/beneosbattlemapsSceneryHD.db",
       "entity": "Scene",
       "module": "beneosbattlemaps"
-    }
+    },
+	"url": "https://github.com/BeneosBattlemaps/beneosbattlemaps",
+	"manifest": "https://github.com/BeneosBattlemaps/beneosbattlemaps/blob/main/module.json",
+	"download": "https://github.com/BeneosBattlemaps/beneosbattlemaps/archive/refs/heads/main.zip"
   ]
 }
