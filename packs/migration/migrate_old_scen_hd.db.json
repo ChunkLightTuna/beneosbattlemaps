@@ -1,0 +1,2979 @@
+{
+  "count": 257,
+  "type": "scenes",
+  "name": "beneosbattlemapsSceneryHD.db",
+  "data": {
+    "Compendium.beneosbattlemaps.beneosbattlemaps4K.1KRFDwbkohyJwMbQ": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/07_SciFi_Base/01_Scifi_Base_1/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/07_SciFi_Base/01_Scifi_Base_1/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Compendium.beneosbattlemaps.beneosbattlemaps4K.3ZEbEKzcfvuROhDm": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/08_Snow_1/02_Snow_2/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/08_Snow_1/02_Snow_2/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Compendium.beneosbattlemaps.beneosbattlemaps4K.G9reU1aDyDpde2bS": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/03_Temple_of_Light/04_TempleCorridor_2/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/03_Temple_of_Light/04_TempleCorridor_2/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Compendium.beneosbattlemaps.beneosbattlemaps4K.Gvp8bapBbMBudWmz": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/08_Snow_1/01_Snow_1/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/08_Snow_1/01_Snow_1/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Compendium.beneosbattlemaps.beneosbattlemaps4K.NcBAVyVfYsWMQKkl": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/03_Temple_of_Light/01_TempleStatue_1/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/03_Temple_of_Light/01_TempleStatue_1/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Compendium.beneosbattlemaps.beneosbattlemaps4K.isYc8pIKGokrxdI1": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/03_Temple_of_Light/03_TempleCorridor_1/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/03_Temple_of_Light/03_TempleCorridor_1/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Compendium.beneosbattlemaps.beneosbattlemaps4K.lWyuCDm5rDY0J2cO": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/07_SciFi_Base/02_Scifi_Base_2/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/07_SciFi_Base/02_Scifi_Base_2/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Compendium.beneosbattlemaps.beneosbattlemaps4K.zcitBky20sgf1nnK": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/03_Temple_of_Light/02_TempleStatue_2/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/03_Temple_of_Light/02_TempleStatue_2/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.0AJdyVWUPXwbONdg": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/00_Special/01_Victorian_Living_Room/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/00_Special/01_Victorian_Living_Room/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.0IqmKM0Wn1FfWPmR": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/26_CoS_Ravenloft_2F/26-04_Ravenloft_2F_Kings_Accountant/26-04_Ravenloft_2F_Kings_Accountant-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/26_CoS_Ravenloft_2F/26-04_Ravenloft_2F_Kings_Accountant/26-04_Ravenloft_2F_Kings_Accountant-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.10cSKkAIMHUXRL5M": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/24_CoS_Ravenloft_1F/24-05_Ravenloft_1F_Dining_Hall/24-05_Ravenloft_1F_Dining_Hall-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/24_CoS_Ravenloft_1F/24-05_Ravenloft_1F_Dining_Hall/24-05_Ravenloft_1F_Dining_Hall-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.1EDH6ywac2jckQ2s": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/28_CoS_Ravenloft_B2/28-06_Ravenloft_B2_Brazier_Room/28-06_Ravenloft_B2_Brazier_Room-HD_Scen_2.webm",
+          "destination": "beneos_battlemaps_assets/HD/28_CoS_Ravenloft_B2/28-06_Ravenloft_B2_Brazier_Room/28-06_Ravenloft_B2_Brazier_Room-HD_Scen_2.webm"
+        }
+      ]
+    },
+    "Scene.1t3m09011n56zgvq": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/10_Snow_Cave_Harbour/01_Snow_cave_Gate/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/10_Snow_Cave_Harbour/01_Snow_cave_Gate/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.2EgiSsUNtuf4t49K": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/24_CoS_Ravenloft_1F/24-04_Ravenloft_1F_Entry/24-04_Ravenloft_1F_Entry-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/24_CoS_Ravenloft_1F/24-04_Ravenloft_1F_Entry/24-04_Ravenloft_1F_Entry-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.2nVMD5nM1wI58wOc": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/21_CoS_Old_Bonegrinder/04_Bonegrinder_burning/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/21_CoS_Old_Bonegrinder/04_Bonegrinder_burning/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.38WHqoeoJplCjYrt": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/27_CoS_Ravenloft_3F/27-09_Ravenloft_3F_W_Wall/27-09_Ravenloft_3F_W_Wall-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/27_CoS_Ravenloft_3F/27-09_Ravenloft_3F_W_Wall/27-09_Ravenloft_3F_W_Wall-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.3K8eFXaJlLhBLbJo": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/30_CoS_Ravenloft_6F_9F/30-01_Ravenloft_6F/30-01_Ravenloft_6F-HD_Scen_2.webm",
+          "destination": "beneos_battlemaps_assets/HD/30_CoS_Ravenloft_6F_9F/30-01_Ravenloft_6F/30-01_Ravenloft_6F-HD_Scen_2.webm"
+        }
+      ]
+    },
+    "Scene.3N1zJYOCw1Vfo6tv": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/30_CoS_Ravenloft_6F_9F/30-03_Ravenloft_8F/30-03_Ravenloft_8F-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/30_CoS_Ravenloft_6F_9F/30-03_Ravenloft_8F/30-03_Ravenloft_8F-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.3bfxgj500jbsm1eo": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/11_CoS_Barovia_Village/06_BaroviaVillage_streets_2/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/11_CoS_Barovia_Village/06_BaroviaVillage_streets_2/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.3fY8gwH6bHEduzkD": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/17_CoS_Van_Richtens_Tower/07_Strahd_3_VanRichten_Bonus/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/17_CoS_Van_Richtens_Tower/07_Strahd_3_VanRichten_Bonus/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.3jm1WPrCP5Jml00w": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/09_Orc_Fortress/01_Orc_Fortress_1_Gate_1/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/09_Orc_Fortress/01_Orc_Fortress_1_Gate_1/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.48i5fl0azu7eiqqx": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/11_CoS_Barovia_Village/03_BaroviaVillage_graveyard_global/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/11_CoS_Barovia_Village/03_BaroviaVillage_graveyard_global/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.4h8XEn2AkGQRWh1I": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/20_CoS_Vallaki_Coffin_Makers_Shop/03_Vallaki_Streets_1/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/20_CoS_Vallaki_Coffin_Makers_Shop/03_Vallaki_Streets_1/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.4n3b9tyxfi7t8l1t": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/10_Snow_Cave_Harbour/08_Snow_cave_Bonus/4K_Overview.webm",
+          "destination": "beneos_battlemaps_assets/4K/10_Snow_Cave_Harbour/08_Snow_cave_Bonus/4K_Overview.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.59h4zevx2x756sdn": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/11_CoS_Barovia_Village/11_BaroviaVillage_MadMarys/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/11_CoS_Barovia_Village/11_BaroviaVillage_MadMarys/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.5GzcHxOkXR0sA0Ni": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/25_CoS_Ravenloft_B1/25-02_Ravenloft_B1_Hall_of_Bones/25-02_Ravenloft_B1_Hall_of_Bones-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/25_CoS_Ravenloft_B1/25-02_Ravenloft_B1_Hall_of_Bones/25-02_Ravenloft_B1_Hall_of_Bones-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.6IXVubtAG7N8lHKY": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/24_CoS_Ravenloft_1F/24-12_Ravenloft_1F_SW_Courtyard/24-12_Ravenloft_1F_SW_Courtyard-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/24_CoS_Ravenloft_1F/24-12_Ravenloft_1F_SW_Courtyard/24-12_Ravenloft_1F_SW_Courtyard-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.6XX88sRj4pgEUhcL": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/19_CoS_Yester_Hill/08_Yester_circle_south_gate/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/19_CoS_Yester_Hill/08_Yester_circle_south_gate/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.6b4mmj63xyi4tft9": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/11_CoS_Barovia_Village/07_BaroviaVillage_fields/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/11_CoS_Barovia_Village/07_BaroviaVillage_fields/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.71kISfH1oZ1n5Wto": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/28_CoS_Ravenloft_B2/28-06_Ravenloft_B2_Brazier_Room/28-06_Ravenloft_B2_Brazier_Room-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/28_CoS_Ravenloft_B2/28-06_Ravenloft_B2_Brazier_Room/28-06_Ravenloft_B2_Brazier_Room-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.73nGZ2FQRr3xvoKk": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/15_CoS_Swalich_Road_n_Woods/07_Svalich_Woods_1/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/15_CoS_Swalich_Road_n_Woods/07_Svalich_Woods_1/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.79I7i75eFkfox14l": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/23_CoS_Vallaki_Orphanage/23-03_Vallaki_Orphanage_3F/23-03_Vallaki_Orphanage_3F-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/23_CoS_Vallaki_Orphanage/23-03_Vallaki_Orphanage_3F/23-03_Vallaki_Orphanage_3F-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.7a8gb6998wlperyt": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/11_CoS_Barovia_Village/08_BaroviaVillage_CityMap/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/11_CoS_Barovia_Village/08_BaroviaVillage_CityMap/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.7gTYtlM8Gy6Yl6mX": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/19_CoS_Yester_Hill/07_Yester_circle_north_gate/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/19_CoS_Yester_Hill/07_Yester_circle_north_gate/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.7uqDLZ0XjUtuV4VL": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/24_CoS_Ravenloft_1F/24-03_Ravenloft_1F_Court_Gate/24-03_Ravenloft_1F_Court_Gate-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/24_CoS_Ravenloft_1F/24-03_Ravenloft_1F_Court_Gate/24-03_Ravenloft_1F_Court_Gate-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.85kf4Gvgykb7KUKL": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/19_CoS_Yester_Hill/02_Yester_Crossing/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/19_CoS_Yester_Hill/02_Yester_Crossing/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.8BGX5plNTNoPThYF": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/09_Orc_Fortress/07_Orc_Fortress_1_Prison/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/09_Orc_Fortress/07_Orc_Fortress_1_Prison/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.8FVPWgnmLHX869rI": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/27_CoS_Ravenloft_3F/27-03_Ravenloft_3F_Bathroom/27-03_Ravenloft_3F_Bathroom-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/27_CoS_Ravenloft_3F/27-03_Ravenloft_3F_Bathroom/27-03_Ravenloft_3F_Bathroom-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.8x9zxl3jsunbof10": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/11_CoS_Barovia_Village/13_Bonus/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/11_CoS_Barovia_Village/13_Bonus/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.93cNlQsZPyTyz29m": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/23_CoS_Vallaki_Orphanage/23-04_Vallaki_Orphanage_Bonus/23-04_Vallaki_Orphanage_Bonus-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/23_CoS_Vallaki_Orphanage/23-04_Vallaki_Orphanage_Bonus/23-04_Vallaki_Orphanage_Bonus-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.9CYjYIySjEiH4nx3": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/22_CoS_Tser_Pool_Camp/01_Tser_Pool_Camp/HD_Scen_2.webm",
+          "destination": "beneos_battlemaps_assets/HD/22_CoS_Tser_Pool_Camp/01_Tser_Pool_Camp/HD_Scen_2.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.9cy0exeqm277da4e": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/11_CoS_Barovia_Village/02_BaroviaVillage_Church_basement/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/11_CoS_Barovia_Village/02_BaroviaVillage_Church_basement/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.9erbigpqcqkbw2bn": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/10_Snow_Cave_Harbour/04_Snow_cave_Corridor/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/10_Snow_Cave_Harbour/04_Snow_cave_Corridor/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.9gDwR3AsZhv07iVv": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/04_Modular_Fantasy_City_1/04_City_1_C1_Bonus/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/04_Modular_Fantasy_City_1/04_City_1_C1_Bonus/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.9yA5mdMEZWDA5lMe": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/06_Cyberpunk_Slum/03_Cyberpunk_Slum_3_rain/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/06_Cyberpunk_Slum/03_Cyberpunk_Slum_3_rain/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.A1fkIKpMVQWaL3v4": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/02_SciFi_Plaza/07_Industrial_Underground_5/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/02_SciFi_Plaza/07_Industrial_Underground_5/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.ADFWIHKLZzkA9sl3": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/32_CoS_Krezk/32-05_Krezk_5/32-05_Krezk_5-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/32_CoS_Krezk/32-05_Krezk_5/32-05_Krezk_5-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.AY6z5VIRrw3lOy7G": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/12_Modular_Dungeon_1/04_Dungeon_water_hall/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/12_Modular_Dungeon_1/04_Dungeon_water_hall/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.AYyJglPsUo3cVBsd": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/01_Crystal_Cave/04_Crystal_Cave_Camp/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/01_Crystal_Cave/04_Crystal_Cave_Camp/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.Ag9mdemzKhCexzMt": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/27_CoS_Ravenloft_3F/27-08_Ravenloft_3F_SW_Wall/27-08_Ravenloft_3F_SW_Wall-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/27_CoS_Ravenloft_3F/27-08_Ravenloft_3F_SW_Wall/27-08_Ravenloft_3F_SW_Wall-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.AiKRrw7huFHkcQZs": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/31_CoS_Barovia_POI_1/31-04_Barovia_Map_Region_2/31-04_Barovia_Map_Region_2-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/31_CoS_Barovia_POI_1/31-04_Barovia_Map_Region_2/31-04_Barovia_Map_Region_2-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.BBecZN50UEDQ02ZS": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/02_SciFi_Plaza/06_Industrial_Underground_4/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/02_SciFi_Plaza/06_Industrial_Underground_4/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.BCyjFKmAMlL2TAxR": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/21_CoS_Old_Bonegrinder/01_Bonegrinder_1f/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/21_CoS_Old_Bonegrinder/01_Bonegrinder_1f/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.BPbaDgqCwkukxsuh": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/18_CoS_Argynvostholt/13_Argynvost_5F/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/18_CoS_Argynvostholt/13_Argynvost_5F/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.BZVdQeQT6m7nj4BT": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/30_CoS_Ravenloft_6F_9F/30-04_Ravenloft_9F/30-04_Ravenloft_9F-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/30_CoS_Ravenloft_6F_9F/30-04_Ravenloft_9F/30-04_Ravenloft_9F-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.BrMuflvwTeKIqCYc": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/32_CoS_Krezk/32-03_Krezk_3/32-03_Krezk_3-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/32_CoS_Krezk/32-03_Krezk_3/32-03_Krezk_3-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.C8mW3gpFAtdaoxD2": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/31_CoS_Barovia_POI_1/31-06_Barovia_Map_Region_4/31-06_Barovia_Map_Region_4-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/31_CoS_Barovia_POI_1/31-06_Barovia_Map_Region_4/31-06_Barovia_Map_Region_4-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.CBUlm9oEHkajXx3p": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/34_CoS_Tsolenka_Pass/34-02_Tsolenka_Pass_Gate/34-02_Tsolenka_Pass_Gate-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/34_CoS_Tsolenka_Pass/34-02_Tsolenka_Pass_Gate/34-02_Tsolenka_Pass_Gate-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.CNsnj15IRESWSdWe": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/19_CoS_Yester_Hill/09_Yester_circle_statue/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/19_CoS_Yester_Hill/09_Yester_circle_statue/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.Cm1G4fInckJqP6WC": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/16_CoS_Vallaki_Wachter_House/02_Wachter_2F/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/16_CoS_Vallaki_Wachter_House/02_Wachter_2F/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.CtAge1qbRjdHfEsM": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/18_CoS_Argynvostholt/10_Argynvost_3F-North/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/18_CoS_Argynvostholt/10_Argynvost_3F-North/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.D5DqW7X2T3MsT2co": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/17_CoS_Van_Richtens_Tower/05_Strahd_3_VanRichten_3F/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/17_CoS_Van_Richtens_Tower/05_Strahd_3_VanRichten_3F/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.D9IoqWf09D9WL6KU": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/22_CoS_Tser_Pool_Camp/03_Tser_Pool_Road/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/22_CoS_Tser_Pool_Camp/03_Tser_Pool_Road/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.DURpM40zJZ67tlnu": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/26_CoS_Ravenloft_2F/26-03_Ravenloft_2F_Kings_Balcony/26-03_Ravenloft_2F_Kings_Balcony-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/26_CoS_Ravenloft_2F/26-03_Ravenloft_2F_Kings_Balcony/26-03_Ravenloft_2F_Kings_Balcony-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.Dz0hMZFPn1eLpMDh": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/28_CoS_Ravenloft_B2/28-07_Ravenloft_B2_Dungeon/28-07_Ravenloft_B2_Dungeon-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/28_CoS_Ravenloft_B2/28-07_Ravenloft_B2_Dungeon/28-07_Ravenloft_B2_Dungeon-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.E1Xy36LgJteP6YvM": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/18_CoS_Argynvostholt/15_Argynvost_Bonus/HD_Scen_2.webm",
+          "destination": "beneos_battlemaps_assets/HD/18_CoS_Argynvostholt/15_Argynvost_Bonus/HD_Scen_2.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.EA2MTin7rBdoR5Y0": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/33_CoS_Krezk_Abbey/33-05_Krezk_Abbey_B1/33-05_Krezk_Abbey_B1-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/33_CoS_Krezk_Abbey/33-05_Krezk_Abbey_B1/33-05_Krezk_Abbey_B1-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.ELLSNMJkHncSP9iN": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/25_CoS_Ravenloft_B1/25-01_Ravenloft_B1_Servants_Hall/25-01_Ravenloft_B1_Servants_Hall-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/25_CoS_Ravenloft_B1/25-01_Ravenloft_B1_Servants_Hall/25-01_Ravenloft_B1_Servants_Hall-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.F0xFyXZBPf9IAG2p": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/32_CoS_Krezk/32-07_Krezk_7/32-07_Krezk_7-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/32_CoS_Krezk/32-07_Krezk_7/32-07_Krezk_7-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.FL0UzaWIEA9bKMXh": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/05_CoS_Death_House/05-08_DeathHouse_2F_Evil/05-08_DeathHouse_2F_Evil-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/05_CoS_Death_House/05-08_DeathHouse_2F_Evil/05-08_DeathHouse_2F_Evil-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.FMM3xf6lFAnOMID8": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/18_CoS_Argynvostholt/11_Argynvost_4F-West/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/18_CoS_Argynvostholt/11_Argynvost_4F-West/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.FfBK26nQVNErLyh4": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/34_CoS_Tsolenka_Pass/34-01_Tsolenka_Pass_1/34-01_Tsolenka_Pass_1-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/34_CoS_Tsolenka_Pass/34-01_Tsolenka_Pass_1/34-01_Tsolenka_Pass_1-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.G2UybYeax5D4mi37": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/33_CoS_Krezk_Abbey/33-01_Krezk_Abbey_1F_North/33-01_Krezk_Abbey_1F_North-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/33_CoS_Krezk_Abbey/33-01_Krezk_Abbey_1F_North/33-01_Krezk_Abbey_1F_North-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.G4KY96skSt3riyGw": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/19_CoS_Yester_Hill/01_Yester_Shrine/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/19_CoS_Yester_Hill/01_Yester_Shrine/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.GPfYSCJ1uwuTqoYJ": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/30_CoS_Ravenloft_6F_9F/30-02_Ravenloft_7F/30-02_Ravenloft_7F-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/30_CoS_Ravenloft_6F_9F/30-02_Ravenloft_7F/30-02_Ravenloft_7F-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.Gka5TPDTcThk4tGF": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/11_CoS_Barovia_Village/09_BaroviaVillage_Burgonmaster/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/11_CoS_Barovia_Village/09_BaroviaVillage_Burgonmaster/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.H1EuQt4WDB5bSEqf": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/20_CoS_Vallaki_Coffin_Makers_Shop/02_Vallaki_Coffin_Makers_Burning/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/20_CoS_Vallaki_Coffin_Makers_Shop/02_Vallaki_Coffin_Makers_Burning/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.H21PhD5Mjtfhh4hZ": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/24_CoS_Ravenloft_1F/24-09_Ravenloft_1F_Tower_Hall/24-09_Ravenloft_1F_Tower_Hall-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/24_CoS_Ravenloft_1F/24-09_Ravenloft_1F_Tower_Hall/24-09_Ravenloft_1F_Tower_Hall-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.H9FIPERDjL5wxSlh": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/27_CoS_Ravenloft_3F/27-05_Ravenloft_3F_NE_Wall/27-05_Ravenloft_3F_NE_Wall-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/27_CoS_Ravenloft_3F/27-05_Ravenloft_3F_NE_Wall/27-05_Ravenloft_3F_NE_Wall-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.HEVWfwWUBlpJrWaB": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/29_CoS_Ravenloft_4F_5F/29-01_Ravenloft_4F/29-01_Ravenloft_4F-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/29_CoS_Ravenloft_4F_5F/29-01_Ravenloft_4F/29-01_Ravenloft_4F-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.I45ERiNYOoVTahZe": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/32_CoS_Krezk/32-12_Krezk_interiour/32-12_Krezk_interiour-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/32_CoS_Krezk/32-12_Krezk_interiour/32-12_Krezk_interiour-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.IIMeIznfD3gPGtDw": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/23_CoS_Vallaki_Orphanage/23-01_Vallaki_Orphanage_1F/23-01_Vallaki_Orphanage_1F-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/23_CoS_Vallaki_Orphanage/23-01_Vallaki_Orphanage_1F/23-01_Vallaki_Orphanage_1F-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.ISRhDpFNM3QgzUS7": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/15_CoS_Swalich_Road_n_Woods/08_Svalich_Woods_2/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/15_CoS_Swalich_Road_n_Woods/08_Svalich_Woods_2/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.J6xQ9jquGJV5e8vW": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/29_CoS_Ravenloft_4F_5F/29-02_Ravenloft_4F_Stais/29-02_Ravenloft_4F_Stais-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/29_CoS_Ravenloft_4F_5F/29-02_Ravenloft_4F_Stais/29-02_Ravenloft_4F_Stais-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.JMIsm1q8u1vYJzvc": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/27_CoS_Ravenloft_3F/27-07_Ravenloft_3F_SE_Wall/27-07_Ravenloft_3F_SE_Wall-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/27_CoS_Ravenloft_3F/27-07_Ravenloft_3F_SE_Wall/27-07_Ravenloft_3F_SE_Wall-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.JWcUHHzTQigIlQFw": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/28_CoS_Ravenloft_B2/28-03_Ravenloft_B2_East_Tomb/28-03_Ravenloft_B2_East_Tomb-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/28_CoS_Ravenloft_B2/28-03_Ravenloft_B2_East_Tomb/28-03_Ravenloft_B2_East_Tomb-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.JffSKaJgNUws4pSu": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/26_CoS_Ravenloft_2F/26-05_Ravenloft_2F_Kings_Apartment_Stair/26-05_Ravenloft_2F_Kings_Apartment_Stair-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/26_CoS_Ravenloft_2F/26-05_Ravenloft_2F_Kings_Apartment_Stair/26-05_Ravenloft_2F_Kings_Apartment_Stair-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.JjguJCUThztP4LxQ": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/32_CoS_Krezk/32-10_Krezk_10/32-10_Krezk_10-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/32_CoS_Krezk/32-10_Krezk_10/32-10_Krezk_10-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.JnbXEjg75c6U6dSf": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/02_SciFi_Plaza/01_Scifi_Plaza_1/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/02_SciFi_Plaza/01_Scifi_Plaza_1/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.JptpFy3e5t2KfMNk": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/21_CoS_Old_Bonegrinder/02_Bonegrinder_2f-4f/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/21_CoS_Old_Bonegrinder/02_Bonegrinder_2f-4f/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.JzGhpZt5mQ9asFTH": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/31_CoS_Barovia_POI_1/31-02_Barovia_Map_Full/31-02_Barovia_Map_Full-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/31_CoS_Barovia_POI_1/31-02_Barovia_Map_Full/31-02_Barovia_Map_Full-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.JzeOubA7hC6tdnMf": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/34_CoS_Tsolenka_Pass/34-03_Tsolenka_Pass_Tower/34-03_Tsolenka_Pass_Tower-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/34_CoS_Tsolenka_Pass/34-03_Tsolenka_Pass_Tower/34-03_Tsolenka_Pass_Tower-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.K9pxFVU5ZRaS4HDq": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/34_CoS_Tsolenka_Pass/34-05_Tsolenka_Pass_2/34-05_Tsolenka_Pass_2-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/34_CoS_Tsolenka_Pass/34-05_Tsolenka_Pass_2/34-05_Tsolenka_Pass_2-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.KOdLbu4r7hXjqNyI": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/34_CoS_Tsolenka_Pass/34-07_Tsolenka_Pass_3/34-07_Tsolenka_Pass_3-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/34_CoS_Tsolenka_Pass/34-07_Tsolenka_Pass_3/34-07_Tsolenka_Pass_3-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.KeYjbaNIzE54i8Ve": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/20_CoS_Vallaki_Coffin_Makers_Shop/04_Vallaki_Streets_2/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/20_CoS_Vallaki_Coffin_Makers_Shop/04_Vallaki_Streets_2/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.LHlONxcphu6kED5G": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/05_CoS_Death_House/05-07_DeathHouse_1F_Evil/05-07_DeathHouse_1F_Evil-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/05_CoS_Death_House/05-07_DeathHouse_1F_Evil/05-07_DeathHouse_1F_Evil-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.LMff9acUysT3PCnf": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/04_Modular_Fantasy_City_1/02_City_1_C1_2F/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/04_Modular_Fantasy_City_1/02_City_1_C1_2F/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.La4Q2FdBTocPyC5H": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/12_Modular_Dungeon_1/03_Dungeon_hall_1/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/12_Modular_Dungeon_1/03_Dungeon_hall_1/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.LglduEokIS2NaQHn": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/19_CoS_Yester_Hill/06_Yester_Top_Trail/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/19_CoS_Yester_Hill/06_Yester_Top_Trail/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.Lx16oOgcPbreDhiY": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/12_Modular_Dungeon_1/01_Dungeon_corridor_1/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/12_Modular_Dungeon_1/01_Dungeon_corridor_1/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.MDPvAu0QRGuU4bHp": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/09_Orc_Fortress/08_Orc_Fortress_1_Bonus/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/09_Orc_Fortress/08_Orc_Fortress_1_Bonus/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.MNRlLET4s3OUWbqw": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/18_CoS_Argynvostholt/15_Argynvost_Bonus/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/18_CoS_Argynvostholt/15_Argynvost_Bonus/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.NVg3RYzJ6mBk7bD4": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/34_CoS_Tsolenka_Pass/34-04_Tsolenka_Pass_Rooftop/34-04_Tsolenka_Pass_Rooftop-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/34_CoS_Tsolenka_Pass/34-04_Tsolenka_Pass_Rooftop/34-04_Tsolenka_Pass_Rooftop-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.NZyGs57x9oYUv0Nn": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/18_CoS_Argynvostholt/12_Argynvost_4F-East/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/18_CoS_Argynvostholt/12_Argynvost_4F-East/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.NbDzy6gT7f8ENBZs": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/33_CoS_Krezk_Abbey/33-02_Krezk_Abbey_1F_East/33-02_Krezk_Abbey_1F_East-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/33_CoS_Krezk_Abbey/33-02_Krezk_Abbey_1F_East/33-02_Krezk_Abbey_1F_East-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.NflPE79XHmTv2smr": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/21_CoS_Old_Bonegrinder/07_Bonus/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/21_CoS_Old_Bonegrinder/07_Bonus/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.O92kFmwamG9hslEh": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/21_CoS_Old_Bonegrinder/06_Bonegrinder_Road/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/21_CoS_Old_Bonegrinder/06_Bonegrinder_Road/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.OYO0KEzH8fcwjqW4": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/12_Modular_Dungeon_1/05_Dungeon_bridge_1/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/12_Modular_Dungeon_1/05_Dungeon_bridge_1/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.Oi04c2J6dctXkqyL": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/28_CoS_Ravenloft_B2/28-04_Ravenloft_B2_South_Tomb/28-04_Ravenloft_B2_South_Tomb-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/28_CoS_Ravenloft_B2/28-04_Ravenloft_B2_South_Tomb/28-04_Ravenloft_B2_South_Tomb-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.OpnVoeXVSb4TOTu3": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/27_CoS_Ravenloft_3F/27-01_Ravenloft_3F_Library/27-01_Ravenloft_3F_Library-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/27_CoS_Ravenloft_3F/27-01_Ravenloft_3F_Library/27-01_Ravenloft_3F_Library-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.P5742dCPsgGnVz9w": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/34_CoS_Tsolenka_Pass/34-06_Tsolenka_Pass_Bridge/34-06_Tsolenka_Pass_Bridge-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/34_CoS_Tsolenka_Pass/34-06_Tsolenka_Pass_Bridge/34-06_Tsolenka_Pass_Bridge-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.PF7Y2Mi96j7KR2Qy": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/09_Orc_Fortress/03_Orc_Fortress_1_Yard_1/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/09_Orc_Fortress/03_Orc_Fortress_1_Yard_1/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.PkFYQvNX56Ej3ZSr": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/32_CoS_Krezk/32-04_Krezk_4/32-04_Krezk_4-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/32_CoS_Krezk/32-04_Krezk_4/32-04_Krezk_4-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.Py8BwgOUFmCVUbTc": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/17_CoS_Van_Richtens_Tower/04_Strahd_3_VanRichten_2F/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/17_CoS_Van_Richtens_Tower/04_Strahd_3_VanRichten_2F/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.QD7eWkNrC1u8OgJl": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/33_CoS_Krezk_Abbey/33-03_Krezk_Abbey_2F_North/33-03_Krezk_Abbey_2F_North-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/33_CoS_Krezk_Abbey/33-03_Krezk_Abbey_2F_North/33-03_Krezk_Abbey_2F_North-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.QNbvVa9Yyts6Y1lb": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/26_CoS_Ravenloft_2F/26-01_Ravenloft_2F_Audience_Hall/26-01_Ravenloft_2F_Audience_Hall-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/26_CoS_Ravenloft_2F/26-01_Ravenloft_2F_Audience_Hall/26-01_Ravenloft_2F_Audience_Hall-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.QYpD06wlf07fL0xk": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/20_CoS_Vallaki_Coffin_Makers_Shop/06_Vallaki_Streets_1_Burning/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/20_CoS_Vallaki_Coffin_Makers_Shop/06_Vallaki_Streets_1_Burning/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.QzIOVQP1TaRTSFPQ": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/18_CoS_Argynvostholt/03_Argynvost_1F-South/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/18_CoS_Argynvostholt/03_Argynvost_1F-South/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.R4W9flXVOC2ys0th": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/19_CoS_Yester_Hill/14_Yester_total/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/19_CoS_Yester_Hill/14_Yester_total/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.R6Bp3Ogzv9fgR6oY": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/18_CoS_Argynvostholt/02_Argynvost_1F-North/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/18_CoS_Argynvostholt/02_Argynvost_1F-North/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.RgAETQCo1m8s0e5X": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/32_CoS_Krezk/32-06_Krezk_6/32-06_Krezk_6-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/32_CoS_Krezk/32-06_Krezk_6/32-06_Krezk_6-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.RiR5h1OpuHIhqxTv": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/16_CoS_Vallaki_Wachter_House/03_Wachter_B1/HD_Scen_2.webm",
+          "destination": "beneos_battlemaps_assets/HD/16_CoS_Vallaki_Wachter_House/03_Wachter_B1/HD_Scen_2.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.Rio5jpyW4CVdYBRm": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/12_Modular_Dungeon_1/08_Dungeon_stairs_straight_2/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/12_Modular_Dungeon_1/08_Dungeon_stairs_straight_2/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.Ru8LhiyExvjsTmXC": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/12_Modular_Dungeon_1/07_Dungeon_stairs_straight_1/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/12_Modular_Dungeon_1/07_Dungeon_stairs_straight_1/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.Rvp6SGCyBDFTtzg2": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/31_CoS_Barovia_POI_1/31-01_Jennys_Hut/31-01_Jennys_Hut-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/31_CoS_Barovia_POI_1/31-01_Jennys_Hut/31-01_Jennys_Hut-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.RxSzRqyIZJTu5PtC": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/32_CoS_Krezk/32-08_Krezk_8/32-08_Krezk_8-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/32_CoS_Krezk/32-08_Krezk_8/32-08_Krezk_8-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.S0nY4V72sPnhfTCx": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/22_CoS_Tser_Pool_Camp/04_Tser_Pool_River_1/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/22_CoS_Tser_Pool_Camp/04_Tser_Pool_River_1/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.S3C6DeCB06p9YbJ9": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/17_CoS_Van_Richtens_Tower/07_Strahd_3_VanRichten_DM_Demo_Outside/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/17_CoS_Van_Richtens_Tower/07_Strahd_3_VanRichten_DM_Demo_Outside/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.SDMI87MiptSKjFjx": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/01_Crystal_Cave/07_Cave_Dungeon_Entrance_BM/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/01_Crystal_Cave/07_Cave_Dungeon_Entrance_BM/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.ScC4cxzS97mPNwWT": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/18_CoS_Argynvostholt/06_Argynvost_2F-Central/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/18_CoS_Argynvostholt/06_Argynvost_2F-Central/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.SemwB1hrbAEYgHiX": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/32_CoS_Krezk/32-02_Krezk_2/32-02_Krezk_2-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/32_CoS_Krezk/32-02_Krezk_2/32-02_Krezk_2-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.T5Jb7W8yoTedNxSh": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/31_CoS_Barovia_POI_1/31-05_Barovia_Map_Region_3/31-05_Barovia_Map_Region_3-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/31_CoS_Barovia_POI_1/31-05_Barovia_Map_Region_3/31-05_Barovia_Map_Region_3-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.TArqxk5vPgTs3Ot1": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/31_CoS_Barovia_POI_1/31-03_Barovia_Map_Region_1/31-03_Barovia_Map_Region_1-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/31_CoS_Barovia_POI_1/31-03_Barovia_Map_Region_1/31-03_Barovia_Map_Region_1-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.TQOUi2e7V7ySM900": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/19_CoS_Yester_Hill/05_Yester_Trail_2/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/19_CoS_Yester_Hill/05_Yester_Trail_2/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.Ta0tGz3uil2wIWtm": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/24_CoS_Ravenloft_1F/24-01_Ravenloft_1F_Bridge_Down/24-01_Ravenloft_1F_Bridge_Down-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/24_CoS_Ravenloft_1F/24-01_Ravenloft_1F_Bridge_Down/24-01_Ravenloft_1F_Bridge_Down-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.Tek8qVgpQm43nm6t": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/19_CoS_Yester_Hill/03_Yester_Trail_1/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/19_CoS_Yester_Hill/03_Yester_Trail_1/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.UM42bnFR9vjX09rQ": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/27_CoS_Ravenloft_3F/27-04_Ravenloft_3F_NW_Wall/27-04_Ravenloft_3F_NW_Wall-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/27_CoS_Ravenloft_3F/27-04_Ravenloft_3F_NW_Wall/27-04_Ravenloft_3F_NW_Wall-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.UcaSn7gCeqGdJA60": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/05_CoS_Death_House/05-09_DeathHouse_3F_Evil/05-09_DeathHouse_3F_Evil-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/05_CoS_Death_House/05-09_DeathHouse_3F_Evil/05-09_DeathHouse_3F_Evil-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.UhcJCEN3aWgMsdhx": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/01_Crystal_Cave/05_Cave_Lake_Jump-n-run/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/01_Crystal_Cave/05_Cave_Lake_Jump-n-run/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.UpJ6RStdrfmrqzh3": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/02_SciFi_Plaza/02_Scifi_Plaza_2/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/02_SciFi_Plaza/02_Scifi_Plaza_2/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.Uy6tsVdJA3Kj1rD2": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/05_CoS_Death_House/05-03_DeathHouse_3F/05-03_DeathHouse_3F-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/05_CoS_Death_House/05-03_DeathHouse_3F/05-03_DeathHouse_3F-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.V5fiMB9IiqVocPQQ": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/09_Orc_Fortress/05_Orc_Fortress_1_Bridge/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/09_Orc_Fortress/05_Orc_Fortress_1_Bridge/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.VT1igiHMMwVyo6yA": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/02_SciFi_Plaza/03_Industrial_Underground_1/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/02_SciFi_Plaza/03_Industrial_Underground_1/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.Vatl8eDM2wPDnGNV": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/27_CoS_Ravenloft_3F/27-06_Ravenloft_3F_E_Wall/27-06_Ravenloft_3F_E_Wall-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/27_CoS_Ravenloft_3F/27-06_Ravenloft_3F_E_Wall/27-06_Ravenloft_3F_E_Wall-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.Vbp1gy0fvDZdOjYk": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/32_CoS_Krezk/32-09_Krezk_9/32-09_Krezk_9-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/32_CoS_Krezk/32-09_Krezk_9/32-09_Krezk_9-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.Vf2ZD7fddEczgqI3": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/14_CoS_Vallaki_Burgomaster_House/03_Vallaki_Burgonmaster_3F/HD_Scen_CloseUpDoor.webm",
+          "destination": "beneos_battlemaps_assets/HD/14_CoS_Vallaki_Burgomaster_House/03_Vallaki_Burgonmaster_3F/HD_Scen_CloseUpDoor.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.W3k2xbrhFHri4JFd": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/18_CoS_Argynvostholt/08_Argynvost_2F-South/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/18_CoS_Argynvostholt/08_Argynvost_2F-South/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.WK5UYdPL1i6X3pve": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/05_CoS_Death_House/05-06_DeathHouse_B2/05-06_DeathHouse_B2-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/05_CoS_Death_House/05-06_DeathHouse_B2/05-06_DeathHouse_B2-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.WaHqzD1dfzA02Maa": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/28_CoS_Ravenloft_B2/28-08_Ravenloft_B2_Cave/28-08_Ravenloft_B2_Cave-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/28_CoS_Ravenloft_B2/28-08_Ravenloft_B2_Cave/28-08_Ravenloft_B2_Cave-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.WgY9X8TVezN1wGq5": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/32_CoS_Krezk/32-01_Krezk_1/32-01_Krezk_1-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/32_CoS_Krezk/32-01_Krezk_1/32-01_Krezk_1-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.WkuJdWO8aURtfQ7j": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/26_CoS_Ravenloft_2F/26-02_Ravenloft_2F_Kings_Hall/26-02_Ravenloft_2F_Kings_Hall-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/26_CoS_Ravenloft_2F/26-02_Ravenloft_2F_Kings_Hall/26-02_Ravenloft_2F_Kings_Hall-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.WqM6PwQKED3OFnYv": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/05_CoS_Death_House/05-04_DeathHouse_4F/05-04_DeathHouse_4F-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/05_CoS_Death_House/05-04_DeathHouse_4F/05-04_DeathHouse_4F-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.XFosGdJVN6n8E1C5": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/13_CoS_Vallaki_Bluewater_Inn/01_Vallaki_BluewaterInn_1F/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/13_CoS_Vallaki_Bluewater_Inn/01_Vallaki_BluewaterInn_1F/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.XMvEaquLEIOOpF4D": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/01_Crystal_Cave/01_Cave_Entrance/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/01_Crystal_Cave/01_Cave_Entrance/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.XRVc94q7hTUWrDLO": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/12_Modular_Dungeon_1/02_Dungeon_left_down_turn/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/12_Modular_Dungeon_1/02_Dungeon_left_down_turn/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.XS1yqFORweVT7ix2": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/33_CoS_Krezk_Abbey/33-04_Krezk_Abbey_2F_East/33-04_Krezk_Abbey_2F_East-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/33_CoS_Krezk_Abbey/33-04_Krezk_Abbey_2F_East/33-04_Krezk_Abbey_2F_East-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.XeQbxToYm1gwzYk6": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/01_Crystal_Cave/02_Cave_Entrance_w_Camp/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/01_Crystal_Cave/02_Cave_Entrance_w_Camp/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.XhRTD8xhSLmpRz1w": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/22_CoS_Tser_Pool_Camp/06_Tser_Pool-Bonus_DM_Eva_Intro_Cards/4K.webm",
+          "destination": "beneos_battlemaps_assets/4K/22_CoS_Tser_Pool_Camp/06_Tser_Pool-Bonus_DM_Eva_Intro_Cards/4K.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.XnmxKNDo1sfSHlGZ": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/32_CoS_Krezk/32-11_Krezk_11/32-11_Krezk_11-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/32_CoS_Krezk/32-11_Krezk_11/32-11_Krezk_11-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.XucEE5y8LirEGjhG": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/02_SciFi_Plaza/05_Industrial_Underground_3/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/02_SciFi_Plaza/05_Industrial_Underground_3/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.XvmTCZ6cjJppygQI": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/28_CoS_Ravenloft_B2/28-01_Ravenloft_B2_Crypts/28-01_Ravenloft_B2_Crypts-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/28_CoS_Ravenloft_B2/28-01_Ravenloft_B2_Crypts/28-01_Ravenloft_B2_Crypts-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.YHFQ4c7vTT6ESnTs": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/20_CoS_Vallaki_Coffin_Makers_Shop/07_Vallaki_Streets_2_Burning/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/20_CoS_Vallaki_Coffin_Makers_Shop/07_Vallaki_Streets_2_Burning/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.Yo3Xw5oP4X6yyFLw": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/19_CoS_Yester_Hill/13_Yester_fane_shrine/HD_Scen_2.webm",
+          "destination": "beneos_battlemaps_assets/HD/19_CoS_Yester_Hill/13_Yester_fane_shrine/HD_Scen_2.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.Z0AT3bcjxYEkm5fz": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/05_CoS_Death_House/05-02_DeathHouse_2F/05-02_DeathHouse_2F-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/05_CoS_Death_House/05-02_DeathHouse_2F/05-02_DeathHouse_2F-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.Z5bF7CE135N0o9nL": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/23_CoS_Vallaki_Orphanage/23-02_Vallaki_Orphanage_2F/23-02_Vallaki_Orphanage_2F-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/23_CoS_Vallaki_Orphanage/23-02_Vallaki_Orphanage_2F/23-02_Vallaki_Orphanage_2F-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.ZA8gf3nMuSXmxP7C": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/18_CoS_Argynvostholt/15_Argynvost_Bonus/HD_Scen_4.webm",
+          "destination": "beneos_battlemaps_assets/HD/18_CoS_Argynvostholt/15_Argynvost_Bonus/HD_Scen_4.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.ZNmQsunV7ds9SQEO": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/16_CoS_Vallaki_Wachter_House/04_Wachter_Bonus/HD_Scen_2.webm",
+          "destination": "beneos_battlemaps_assets/HD/16_CoS_Vallaki_Wachter_House/04_Wachter_Bonus/HD_Scen_2.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.Zb7nSZ569p2OkzQL": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/05_CoS_Death_House/05-10_DeathHouse_4F_Evil/05-10_DeathHouse_4F_Evil-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/05_CoS_Death_House/05-10_DeathHouse_4F_Evil/05-10_DeathHouse_4F_Evil-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.ZbtK6rihsZk1D4cA": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/12_Modular_Dungeon_1/06_dungeon_flooded_1/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/12_Modular_Dungeon_1/06_dungeon_flooded_1/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.ZqY5ImyRQPa07OBh": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/05_CoS_Death_House/05-05_DeathHouse_B1/05-05_DeathHouse_B1-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/05_CoS_Death_House/05-05_DeathHouse_B1/05-05_DeathHouse_B1-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.aY0dWWXuAkTCAQiw": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/24_CoS_Ravenloft_1F/24-08_Ravenloft_1F_Grand_Landing/24-08_Ravenloft_1F_Grand_Landing-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/24_CoS_Ravenloft_1F/24-08_Ravenloft_1F_Grand_Landing/24-08_Ravenloft_1F_Grand_Landing-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.aatpLnbQtPWu37Ak": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/20_CoS_Vallaki_Coffin_Makers_Shop/05_Vallaki_Streets_3/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/20_CoS_Vallaki_Coffin_Makers_Shop/05_Vallaki_Streets_3/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.bDyyulHDuUsORzZW": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/01_Crystal_Cave/03_Crystal_Cave/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/01_Crystal_Cave/03_Crystal_Cave/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.bQwmKJS1KDzisvJn": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/17_CoS_Van_Richtens_Tower/07_Strahd_3_VanRichten_DM_Demo_Inside/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/17_CoS_Van_Richtens_Tower/07_Strahd_3_VanRichten_DM_Demo_Inside/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.bR5i0DwzujhDM18v": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/15_CoS_Swalich_Road_n_Woods/05_Svalich_Road_3/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/15_CoS_Swalich_Road_n_Woods/05_Svalich_Road_3/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.bRevWqmsG1OiXP3y": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/20_CoS_Vallaki_Coffin_Makers_Shop/01_Vallaki_Coffin_Makers_Normal/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/20_CoS_Vallaki_Coffin_Makers_Shop/01_Vallaki_Coffin_Makers_Normal/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.bbgxj6bimsqwb4fs": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/10_Snow_Cave_Harbour/07_Snow_cave_camp/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/10_Snow_Cave_Harbour/07_Snow_cave_camp/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.d0DFGHP2rODkyUW1": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/22_CoS_Tser_Pool_Camp/02_Tser_Pool_Evas_Tent/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/22_CoS_Tser_Pool_Camp/02_Tser_Pool_Evas_Tent/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.dVt6gxcxgnSqnVYV": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/16_CoS_Vallaki_Wachter_House/01_Wachter_1F/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/16_CoS_Vallaki_Wachter_House/01_Wachter_1F/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.dcPYJVxKRPLQ5i2y": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/04_Modular_Fantasy_City_1/01_City_1_C1_1F/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/04_Modular_Fantasy_City_1/01_City_1_C1_1F/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.eHFL4lWC6x3Z28sE": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/29_CoS_Ravenloft_4F_5F/29-03_Ravenloft_4F_South_Tower/29-03_Ravenloft_4F_South_Tower-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/29_CoS_Ravenloft_4F_5F/29-03_Ravenloft_4F_South_Tower/29-03_Ravenloft_4F_South_Tower-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.eNfL7bGKUYeMRleN": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/20_CoS_Vallaki_Coffin_Makers_Shop/08_Vallaki_Streets_3_Burning/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/20_CoS_Vallaki_Coffin_Makers_Shop/08_Vallaki_Streets_3_Burning/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.eaSvcYbTf3iHHU7W": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/25_CoS_Ravenloft_B1/25-05_Ravenloft_B1_Bonus/25-05_Ravenloft_B1_Bonus-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/25_CoS_Ravenloft_B1/25-05_Ravenloft_B1_Bonus/25-05_Ravenloft_B1_Bonus-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.ejZvKLNhyJjsfOSl": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/04_Modular_Fantasy_City_1/03_City_1_C1_Sewer/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/04_Modular_Fantasy_City_1/03_City_1_C1_Sewer/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.et2RSx63LHKd7Eih": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/17_CoS_Van_Richtens_Tower/01_Strahd_3_VanRichten_Normal/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/17_CoS_Van_Richtens_Tower/01_Strahd_3_VanRichten_Normal/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.f1weU0UHOL3GQkHT": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/01_Crystal_Cave/06_Cave_Bridge/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/01_Crystal_Cave/06_Cave_Bridge/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.f6DB4vUwkn9FYDWs": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/23_CoS_Vallaki_Orphanage/23-04_Vallaki_Orphanage_Bonus/23-04_Vallaki_Orphanage_Bonus-HD_Scen_2.webm",
+          "destination": "beneos_battlemaps_assets/HD/23_CoS_Vallaki_Orphanage/23-04_Vallaki_Orphanage_Bonus/23-04_Vallaki_Orphanage_Bonus-HD_Scen_2.webm"
+        }
+      ]
+    },
+    "Scene.fycXgNaG32L2om5A": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/19_CoS_Yester_Hill/04_Yester_Crossing_2/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/19_CoS_Yester_Hill/04_Yester_Crossing_2/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.gMBPreIETAgFslzI": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/24_CoS_Ravenloft_1F/24-06_Ravenloft_1F_Hall_Of_Faith/24-06_Ravenloft_1F_Hall_Of_Faith-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/24_CoS_Ravenloft_1F/24-06_Ravenloft_1F_Hall_Of_Faith/24-06_Ravenloft_1F_Hall_Of_Faith-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.gk41SOn1bpOqjBDq": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/27_CoS_Ravenloft_3F/27-02_Ravenloft_3F_Main_Tower/27-02_Ravenloft_3F_Main_Tower-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/27_CoS_Ravenloft_3F/27-02_Ravenloft_3F_Main_Tower/27-02_Ravenloft_3F_Main_Tower-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.gnrB5QtxyJpp7tpf": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/18_CoS_Argynvostholt/04_Argynvost_1F-East/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/18_CoS_Argynvostholt/04_Argynvost_1F-East/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.h8canpimcxnl6yc5": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/10_Snow_Cave_Harbour/03_Snow_cave_Pier/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/10_Snow_Cave_Harbour/03_Snow_cave_Pier/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.ibxVOzbA12aDNoP0": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/26_CoS_Ravenloft_2F/26-06_Ravenloft_2F_Servants_Upper_Floor/26-06_Ravenloft_2F_Servants_Upper_Floor-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/26_CoS_Ravenloft_2F/26-06_Ravenloft_2F_Servants_Upper_Floor/26-06_Ravenloft_2F_Servants_Upper_Floor-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.inoO3MA0d3Tzugup": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/25_CoS_Ravenloft_B1/25-04_Ravenloft_B1_Kignsmen_Hall/25-04_Ravenloft_B1_Kignsmen_Hall-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/25_CoS_Ravenloft_B1/25-04_Ravenloft_B1_Kignsmen_Hall/25-04_Ravenloft_B1_Kignsmen_Hall-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.ip05BRn1c5k7RT9e": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/18_CoS_Argynvostholt/01_Argynvost_1F-Central/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/18_CoS_Argynvostholt/01_Argynvost_1F-Central/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.jhn4ccl89byj4mwq": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/11_CoS_Barovia_Village/05_BaroviaVillage_streets_1/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/11_CoS_Barovia_Village/05_BaroviaVillage_streets_1/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.jmsaCjCpXF7Uy2uf": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/29_CoS_Ravenloft_4F_5F/29-05_Ravenloft_4F_Roof/29-05_Ravenloft_4F_Roof-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/29_CoS_Ravenloft_4F_5F/29-05_Ravenloft_4F_Roof/29-05_Ravenloft_4F_Roof-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.k7LraM6XnCPYFSDl": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/17_CoS_Van_Richtens_Tower/02_Strahd_3_VanRichten_Exploded/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/17_CoS_Van_Richtens_Tower/02_Strahd_3_VanRichten_Exploded/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.kIz2S4z2qnzJHI4p": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/15_CoS_Swalich_Road_n_Woods/01_Svalich_Wood_Camp/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/15_CoS_Swalich_Road_n_Woods/01_Svalich_Wood_Camp/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.kU49NpQbd8USUHeX": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/17_CoS_Van_Richtens_Tower/03_Strahd_3_VanRichten_1F/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/17_CoS_Van_Richtens_Tower/03_Strahd_3_VanRichten_1F/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.kzznXHdUpcVAftS5": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/22_CoS_Tser_Pool_Camp/01_Tser_Pool_Camp/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/22_CoS_Tser_Pool_Camp/01_Tser_Pool_Camp/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.l0FjKTzn4wmO6HT5": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/21_CoS_Old_Bonegrinder/05_Bonegrinder_Shrine/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/21_CoS_Old_Bonegrinder/05_Bonegrinder_Shrine/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.l2HSPkn7x7LRttlG": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/15_CoS_Swalich_Road_n_Woods/04_Svalich_Road_2/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/15_CoS_Swalich_Road_n_Woods/04_Svalich_Road_2/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.lJqpgkXnQS73W0RV": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/14_CoS_Vallaki_Burgomaster_House/04_Vallaki_CityMap/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/14_CoS_Vallaki_Burgomaster_House/04_Vallaki_CityMap/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.lyw9fib5xdrkyhwc": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/11_CoS_Barovia_Village/10_BaroviaVillage_Bildraths/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/11_CoS_Barovia_Village/10_BaroviaVillage_Bildraths/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.m2uGd8EGHL05jw35": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/18_CoS_Argynvostholt/15_Argynvost_Bonus/HD_Scen_3.webm",
+          "destination": "beneos_battlemaps_assets/HD/18_CoS_Argynvostholt/15_Argynvost_Bonus/HD_Scen_3.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.m4wuTCnkEJGK66V9": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/19_CoS_Yester_Hill/11_Yester_Gulthias/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/19_CoS_Yester_Hill/11_Yester_Gulthias/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.mG86lz0KPGFgXztl": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/09_Orc_Fortress/02_Orc_Fortress_1_Wall/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/09_Orc_Fortress/02_Orc_Fortress_1_Wall/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.mJECpwlqM1OaXOBy": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/18_CoS_Argynvostholt/07_Argynvost_2F-North/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/18_CoS_Argynvostholt/07_Argynvost_2F-North/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.mSZ6khMu2ri2XfIs": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/24_CoS_Ravenloft_1F/24-07_Ravenloft_1F_Cathedral/24-07_Ravenloft_1F_Cathedral-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/24_CoS_Ravenloft_1F/24-07_Ravenloft_1F_Cathedral/24-07_Ravenloft_1F_Cathedral-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.mUwSGO0CJf8Bbu2a": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/19_CoS_Yester_Hill/15_yester_Bonus/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/19_CoS_Yester_Hill/15_yester_Bonus/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.mba93B9KXIazai9J": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/21_CoS_Old_Bonegrinder/03_Bonegrinder_Megaliths/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/21_CoS_Old_Bonegrinder/03_Bonegrinder_Megaliths/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.mp7i6hmfks37z79x": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/11_CoS_Barovia_Village/12_BaroviaVillage_RandomHouses/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/11_CoS_Barovia_Village/12_BaroviaVillage_RandomHouses/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.nBxrgb7Q9NIwJm2N": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/28_CoS_Ravenloft_B2/28-05_Ravenloft_B2_Tunnel/28-05_Ravenloft_B2_Tunnel-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/28_CoS_Ravenloft_B2/28-05_Ravenloft_B2_Tunnel/28-05_Ravenloft_B2_Tunnel-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.nHouzDUh6qPwoaDy": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/15_CoS_Swalich_Road_n_Woods/06_Grass_land_Camp/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/15_CoS_Swalich_Road_n_Woods/06_Grass_land_Camp/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.ntwd0XSHnLdog37s": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/14_CoS_Vallaki_Burgomaster_House/02_Vallaki_Burgonmaster_2F/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/14_CoS_Vallaki_Burgomaster_House/02_Vallaki_Burgonmaster_2F/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.oFRfSx9dSuMAF5Q3": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/29_CoS_Ravenloft_4F_5F/29-04_Ravenloft_4F_North_Tower/29-04_Ravenloft_4F_North_Tower-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/29_CoS_Ravenloft_4F_5F/29-04_Ravenloft_4F_North_Tower/29-04_Ravenloft_4F_North_Tower-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.oGIO0yPNXQUCf9VH": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/13_CoS_Vallaki_Bluewater_Inn/04_Vallaki_BluewaterInn_Bonus/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/13_CoS_Vallaki_Bluewater_Inn/04_Vallaki_BluewaterInn_Bonus/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.pKsSai946WoyfYVq": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/29_CoS_Ravenloft_4F_5F/29-06_Ravenloft_5F/29-06_Ravenloft_5F-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/29_CoS_Ravenloft_4F_5F/29-06_Ravenloft_5F/29-06_Ravenloft_5F-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.pNTuENoxR44jLWHX": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/25_CoS_Ravenloft_B1/25-03_Ravenloft_B1_Guards_Quarters/25-03_Ravenloft_B1_Guards_Quarters-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/25_CoS_Ravenloft_B1/25-03_Ravenloft_B1_Guards_Quarters/25-03_Ravenloft_B1_Guards_Quarters-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.poThlqN9xDLV2K3J": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/15_CoS_Swalich_Road_n_Woods/03_Svalich_Road_1/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/15_CoS_Swalich_Road_n_Woods/03_Svalich_Road_1/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.qEIsLP99nqxfojzw": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/13_CoS_Vallaki_Bluewater_Inn/03_Vallaki_BluewaterInn_3F/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/13_CoS_Vallaki_Bluewater_Inn/03_Vallaki_BluewaterInn_3F/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.qI63xx7uNp7pLIEZ": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/22_CoS_Tser_Pool_Camp/02_Tser_Pool_Evas_Tent/HD_Scen_2.webm",
+          "destination": "beneos_battlemaps_assets/HD/22_CoS_Tser_Pool_Camp/02_Tser_Pool_Evas_Tent/HD_Scen_2.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.qQViKqeaTJ2tfVhc": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/24_CoS_Ravenloft_1F/24-13_Ravenloft_1F_SE_Courtyard/24-13_Ravenloft_1F_SE_Courtyard-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/24_CoS_Ravenloft_1F/24-13_Ravenloft_1F_SE_Courtyard/24-13_Ravenloft_1F_SE_Courtyard-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.qk77emjkA841iPpw": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/18_CoS_Argynvostholt/14_Argynvost_6F/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/18_CoS_Argynvostholt/14_Argynvost_6F/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.r0Ki12RfOh10C0AU": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/14_CoS_Vallaki_Burgomaster_House/01_Vallaki_Burgonmaster_1F/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/14_CoS_Vallaki_Burgomaster_House/01_Vallaki_Burgonmaster_1F/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.rCm65nfaqI1USA2N": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/18_CoS_Argynvostholt/09_Argynvost_3F-Central-South/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/18_CoS_Argynvostholt/09_Argynvost_3F-Central-South/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.rK24Rc1mUM0HuJUc": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/09_Orc_Fortress/04_Orc_Fortress_1_Gate_2/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/09_Orc_Fortress/04_Orc_Fortress_1_Gate_2/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.rYMiGdinI4GwOQTf": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/05_CoS_Death_House/05-01_DeathHouse_1F/05-01_DeathHouse_1F-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/05_CoS_Death_House/05-01_DeathHouse_1F/05-01_DeathHouse_1F-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.rlIBSjnu3Mjs5XAj": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/17_CoS_Van_Richtens_Tower/06_Strahd_3_VanRichten_4F/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/17_CoS_Van_Richtens_Tower/06_Strahd_3_VanRichten_4F/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.rzoOggplLxh0y4ry": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/14_CoS_Vallaki_Burgomaster_House/03_Vallaki_Burgonmaster_3F/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/14_CoS_Vallaki_Burgomaster_House/03_Vallaki_Burgonmaster_3F/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.sG3E7Xucy6h6RcRX": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/09_Orc_Fortress/06_Orc_Fortress_1_Yard_2/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/09_Orc_Fortress/06_Orc_Fortress_1_Yard_2/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.sUJxuCtHEWmjon3w": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/30_CoS_Ravenloft_6F_9F/30-01_Ravenloft_6F/30-01_Ravenloft_6F-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/30_CoS_Ravenloft_6F_9F/30-01_Ravenloft_6F/30-01_Ravenloft_6F-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.t0Tac9nqBTyDBT5R": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/29_CoS_Ravenloft_4F_5F/29-07_Ravenloft_5F_Stairs/29-07_Ravenloft_5F_Stairs-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/29_CoS_Ravenloft_4F_5F/29-07_Ravenloft_5F_Stairs/29-07_Ravenloft_5F_Stairs-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.t6icre5l0dfo5omo": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/11_CoS_Barovia_Village/01_BaroviaVillage_Church_Interiour/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/11_CoS_Barovia_Village/01_BaroviaVillage_Church_Interiour/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.tIN8nlYt3elGmEGA": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/16_CoS_Vallaki_Wachter_House/04_Wachter_Bonus/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/16_CoS_Vallaki_Wachter_House/04_Wachter_Bonus/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.tNOb48HWc2oBcxKm": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/19_CoS_Yester_Hill/12_Yester_Gulthias_total/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/19_CoS_Yester_Hill/12_Yester_Gulthias_total/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.tuvbat0t6nzevou2": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/10_Snow_Cave_Harbour/06_Snow_cave_Statue/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/10_Snow_Cave_Harbour/06_Snow_cave_Statue/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.u1936YwvCd99yqVt": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/28_CoS_Ravenloft_B2/28-02_Ravenloft_B2_North_Tomb/28-02_Ravenloft_B2_North_Tomb-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/28_CoS_Ravenloft_B2/28-02_Ravenloft_B2_North_Tomb/28-02_Ravenloft_B2_North_Tomb-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.u2rzvwdjms3awemw": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/11_CoS_Barovia_Village/04_BaroviaVillage_graveyard_grave/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/11_CoS_Barovia_Village/04_BaroviaVillage_graveyard_grave/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.uaPH0C5fMw298dGr": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/24_CoS_Ravenloft_1F/24-14_Ravenloft_1F_Overlook/24-14_Ravenloft_1F_Overlook-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/24_CoS_Ravenloft_1F/24-14_Ravenloft_1F_Overlook/24-14_Ravenloft_1F_Overlook-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.ubiCuZGwc5h1iPtL": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/15_CoS_Swalich_Road_n_Woods/02_Svalich_Dalvans_Corpse/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/15_CoS_Swalich_Road_n_Woods/02_Svalich_Dalvans_Corpse/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.uqv1sbtx2gnfm7l0": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/09_Orc_Fortress/07_Orc_Fortress_1_Prison/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/09_Orc_Fortress/07_Orc_Fortress_1_Prison/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.v0GMottQ8o3tXfyB": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/24_CoS_Ravenloft_1F/24-02_Ravenloft_1F_Bridge_Up/24-02_Ravenloft_1F_Bridge_Up-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/24_CoS_Ravenloft_1F/24-02_Ravenloft_1F_Bridge_Up/24-02_Ravenloft_1F_Bridge_Up-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.vEyCMBvHewFT7M29": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/22_CoS_Tser_Pool_Camp/05_Tser_Pool_River_2/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/22_CoS_Tser_Pool_Camp/05_Tser_Pool_River_2/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.vcdibutvlq4ho9eb": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/10_Snow_Cave_Harbour/05_Snow_cave_brokenBridge/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/10_Snow_Cave_Harbour/05_Snow_cave_brokenBridge/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.vivub1mn18r5huSf": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/28_CoS_Ravenloft_B2/28-06_Ravenloft_B2_Brazier_Room/28-06_Ravenloft_B2_Brazier_Room-HD_Scen_3.webm",
+          "destination": "beneos_battlemaps_assets/HD/28_CoS_Ravenloft_B2/28-06_Ravenloft_B2_Brazier_Room/28-06_Ravenloft_B2_Brazier_Room-HD_Scen_3.webm"
+        }
+      ]
+    },
+    "Scene.w2zPNu4KLCgQTpyf": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/22_CoS_Tser_Pool_Camp/06_Tser_Pool-Bonus_DM_Eva_Intro_NoCards/4K.webm",
+          "destination": "beneos_battlemaps_assets/4K/22_CoS_Tser_Pool_Camp/06_Tser_Pool-Bonus_DM_Eva_Intro_NoCards/4K.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.xJPk6T08E6TTqvI1": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/06_Cyberpunk_Slum/01_Cyberpunk_Slum_1_rain/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/06_Cyberpunk_Slum/01_Cyberpunk_Slum_1_rain/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.xcwzz63125i1ga3r": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/09_Orc_Fortress/08_Orc_Fortress_1_Bonus/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/09_Orc_Fortress/08_Orc_Fortress_1_Bonus/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.xuq7xAt8a8k5hjKf": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/24_CoS_Ravenloft_1F/24-11_Ravenloft_1F_NE_Courtyard/24-11_Ravenloft_1F_NE_Courtyard-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/24_CoS_Ravenloft_1F/24-11_Ravenloft_1F_NE_Courtyard/24-11_Ravenloft_1F_NE_Courtyard-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.xyvaKmZPCIh6yQ73": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/24_CoS_Ravenloft_1F/24-10_Ravenloft_1F_NW_Courtyard/24-10_Ravenloft_1F_NW_Courtyard-HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/24_CoS_Ravenloft_1F/24-10_Ravenloft_1F_NW_Courtyard/24-10_Ravenloft_1F_NW_Courtyard-HD_Scen.webm"
+        }
+      ]
+    },
+    "Scene.y6fyma1jl7uuwmwr": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/10_Snow_Cave_Harbour/02_Snow_cave_Stairs/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/10_Snow_Cave_Harbour/02_Snow_cave_Stairs/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.yMgDyN5AlKmNIWGo": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/19_CoS_Yester_Hill/10_Yester_circle_total/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/19_CoS_Yester_Hill/10_Yester_circle_total/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.yQcf3tuFSFMt7TVp": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/18_CoS_Argynvostholt/05_Argynvost_1F-West/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/18_CoS_Argynvostholt/05_Argynvost_1F-West/HD_Scen.webm"
+        }
+      ],
+      "tiles.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Beneos_Battlemap_Links.webp",
+          "destination": "modules/beneosbattlemaps/module_assets/Beneos_Battlemap_Links.webp"
+        }
+      ]
+    },
+    "Scene.yhZ6F3x5Sqm6CzyR": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/maps/06_Cyberpunk_Slum/02_Cyberpunk_Slum_2_rain/HD_Scen.webm",
+          "destination": "beneos_battlemaps_assets/HD/06_Cyberpunk_Slum/02_Cyberpunk_Slum_2_rain/HD_Scen.webm"
+        }
+      ]
+    }
+  }
+}

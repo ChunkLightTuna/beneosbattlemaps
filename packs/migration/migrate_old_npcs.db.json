@@ -1,0 +1,481 @@
+{
+  "count": 24,
+  "type": "actors",
+  "name": "beneos-battlemaps-npcs.db",
+  "data": {
+    "Actor.4gm9bVUCJiHKks91": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/placeholder.png",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "token.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ]
+    },
+    "Actor.FcGuBXkZqbNPGCwS": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/placeholder.png",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.1.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.2.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.3.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.4.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.5.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.6.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.7.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "token.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ]
+    },
+    "Actor.WJ7aug6mfderrUXA": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Animated_Tokens/Dragon_skull.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/tokens/Dragon_skull.webp"
+        }
+      ],
+      "token.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/tokens/Dragon_skull.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/tokens/Dragon_skull.webp"
+        }
+      ]
+    },
+    "Actor.hEv5jwkwizwnYE26": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/placeholder.png",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.1.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.2.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.3.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.4.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.5.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "token.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ]
+    },
+    "Actor.i4TIjZn4XU29BNWf": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/groupMarker.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/0031/groupMarker.webp"
+        }
+      ],
+      "token.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/0031/groupMarker.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/0031/groupMarker.webp"
+        }
+      ]
+    },
+    "Actor.kJnzTvGwHzjXCpl5": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/placeholder.png",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.1.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.2.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.3.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "token.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ]
+    },
+    "Actor.oUNkkCqVixS6CB9W": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/placeholder.png",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.1.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.2.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.3.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.4.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.5.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.6.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "token.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ]
+    },
+    "Actor.plDVapbKW49H73kx": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/0018/027_revenant_knight_1-idle_face_still.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/0018/027_revenant_knight_1-idle_face_still.webp"
+        }
+      ],
+      "items.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/placeholder.png",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.1.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.2.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.3.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.4.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.5.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.6.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.7.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "token.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/0018/027_revenant_knight_1-idle_face_still.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/0018/027_revenant_knight_1-idle_face_still.webp"
+        }
+      ]
+    },
+    "Actor.rg2PqfZaoOJttrMd": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/placeholder.png",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.1.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.2.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.3.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.4.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.5.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.6.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "items.7.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ],
+      "token.img": [
+        {
+          "source": "beneos_battlemaps_assets/map_assets/placeholder.webp",
+          "destination": "beneos_battlemaps_assets/map_assets/placeholder.webp"
+        }
+      ]
+    },
+    "Compendium.beneosbattlemaps.beneos-battlemaps-npcs.9QfBKX7kJ5QnofZQ": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Animated_Tokens/23_FelixDemon_Face.png",
+          "destination": "beneos_battlemaps_assets/map_assets/tokens/23_FelixDemon_Face.webp"
+        }
+      ],
+      "items.0.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Animated_Tokens/p_30.png",
+          "destination": "beneos_battlemaps_assets/map_assets/tokens/p_30.webp"
+        }
+      ],
+      "items.1.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Animated_Tokens/SpellBook06_add_008.PNG",
+          "destination": "beneos_battlemaps_assets/map_assets/tokens/SpellBook06_add_008.webp"
+        }
+      ],
+      "items.2.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Animated_Tokens/SpellBook03_78.png",
+          "destination": "beneos_battlemaps_assets/map_assets/tokens/SpellBook03_78.webp"
+        }
+      ],
+      "items.3.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Animated_Tokens/SpellBook04_08.png",
+          "destination": "beneos_battlemaps_assets/map_assets/tokens/SpellBook04_08.webp"
+        }
+      ],
+      "items.4.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Animated_Tokens/SpellBook07_44.png",
+          "destination": "beneos_battlemaps_assets/map_assets/tokens/SpellBook07_44.webp"
+        }
+      ],
+      "token.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Animated_Tokens/23_FelixDemon.webm",
+          "destination": "beneos_battlemaps_assets/map_assets/tokens/23_FelixDemon.webm"
+        }
+      ]
+    },
+    "Compendium.beneostokens.beneostokens_TopDown.N2nYgvSOzif1r7Hd": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Animated_Tokens/009_Skeleton_Henchman_5-Idle_Face_Still.png",
+          "destination": "beneos_battlemaps_assets/map_assets/tokens/009_Skeleton_Henchman_5-Idle_Face_Still.webp"
+        }
+      ],
+      "items.1.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Animated_Tokens/SpellBook05_56.png",
+          "destination": "beneos_battlemaps_assets/map_assets/tokens/SpellBook05_56.webp"
+        }
+      ],
+      "items.3.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Animated_Tokens/SpellBook07_67.png",
+          "destination": "beneos_battlemaps_assets/map_assets/tokens/SpellBook07_67.webp"
+        }
+      ],
+      "items.5.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Animated_Tokens/SpellBook06_107.png",
+          "destination": "beneos_battlemaps_assets/map_assets/tokens/SpellBook06_107.webp"
+        }
+      ],
+      "items.6.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Animated_Tokens/r_08.png",
+          "destination": "beneos_battlemaps_assets/map_assets/tokens/r_08.webp"
+        }
+      ],
+      "token.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Animated_Tokens/009_Skeleton_Henchman_5-Idle_Top.webm",
+          "destination": "beneos_battlemaps_assets/map_assets/tokens/009_Skeleton_Henchman_5-Idle_Top.webm"
+        }
+      ]
+    },
+    "Compendium.dnd5e.monsters.Bupo3E9X5Ptx6XeT": {
+      "img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Animated_Tokens/010_Horse_2-Idle_Face_Still.png",
+          "destination": "beneos_battlemaps_assets/map_assets/tokens/010_Horse_2-Idle_Face_Still.webp"
+        }
+      ],
+      "token.img": [
+        {
+          "source": "modules/beneosbattlemaps/map-assets/Map-Assets_DontChange/Animated_Tokens/010_Horse_2-Idle_Top.webm",
+          "destination": "beneos_battlemaps_assets/map_assets/tokens/010_Horse_2-Idle_Top.webm"
+        }
+      ]
+    }
+  }
+}
