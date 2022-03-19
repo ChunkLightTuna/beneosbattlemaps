@@ -16,7 +16,7 @@
    * Set to the following to disable:
    *   const additionalJournals = [];
    */
-  const additionalJournals = [];
+  const additionalJournals = ['_2 How it works', '_3 Installation'];
   /**
    * additionalMacros will automatically be imported. Each name must match exactly and are case sensitive.
    * Set to the following to disable:
@@ -77,7 +77,7 @@
     return;
   }
 
-  const journalName = '_Installation';
+  const journalName = '_1 How To use';
 
   if (game.journal.getName(journalName)) {
     // Already imported
