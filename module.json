@@ -1,5 +1,6 @@
 {
   "id": "beneosbattlemaps",
+  "version": "#{VERSION}#",
   "title": "Beneos Battlemaps",
   "description": "Compendium pack with high quality animated battlemaps and sceneries",
   "authors": [
@@ -13,7 +14,6 @@
     "minimum": 10,
     "verified": 10
   },
-  "version": "#{VERSION}#",
   "url": "#{URL}#",
   "manifest": "#{MANIFEST}#",
   "download": "#{DOWNLOAD}#",
@@ -56,28 +56,28 @@
   ],
   "packs": [
     {
-      "name": "beneosbattlemaps4K",
+      "id": "beneosbattlemaps4K",
       "label": "Beneos Battlemaps 4K",
       "path": "packs/beneosbattlemaps4K.db",
       "type": "Scene",
       "module": "beneosbattlemaps"
     },
     {
-      "name": "beneosbattlemapsScenery4K",
+      "id": "beneosbattlemapsScenery4K",
       "label": "Beneos Battlemaps Scenery 4K",
       "path": "packs/beneosbattlemapsScenery4K.db",
       "type": "Scene",
       "module": "beneosbattlemaps"
     },
     {
-      "name": "beneosbattlemapsHD",
+      "id": "beneosbattlemapsHD",
       "label": "Beneos Battlemaps HD",
       "path": "packs/beneosbattlemapsHD.db",
       "type": "Scene",
       "module": "beneosbattlemaps"
     },
     {
-      "name": "beneos-battlemaps-npcs",
+      "id": "beneos-battlemaps-npcs",
       "label": "Beneos Battlemaps NPCs",
       "path": "packs/beneos-battlemaps-npcs.db",
       "type": "Actor",
@@ -85,21 +85,21 @@
       "module": "beneosbattlemaps"
     },
     {
-      "name": "beneosbattlemaps_journal",
+      "id": "beneosbattlemaps_journal",
       "label": "Beneos Battlemaps Journals",
       "path": "packs/beneosbattlemaps_journal.db",
       "type": "JournalEntry",
       "module": "beneosbattlemaps"
     },
     {
-      "name": "beneosbattlemaps_macros",
+      "id": "beneosbattlemaps_macros",
       "label": "Beneos Battlemaps Macros",
       "path": "packs/beneosbattlemaps_macros.db",
       "type": "Macro",
       "module": "beneosbattlemaps"
     },
     {
-      "name": "beneosbattlemapsSceneryHD",
+      "id": "beneosbattlemapsSceneryHD",
       "label": "Beneos Battlemaps Scenery HD",
       "path": "packs/beneosbattlemapsSceneryHD.db",
       "type": "Scene",
