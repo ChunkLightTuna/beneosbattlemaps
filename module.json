@@ -27,30 +27,30 @@
           "verified": "2.1.2"
         }
       }
+    ],
+    "requires": [
+      {
+        "id": "multilevel-tokens",
+        "manifest": "https://github.com/ChunkLightTuna/foundryvtt-multilevel-tokens/releases/latest/download/module.json",
+        "type": "module"
+      },
+      {
+        "id": "scene-packer",
+        "manifest": "https://github.com/League-of-Foundry-Developers/scene-packer/releases/latest/download/module.json",
+        "type": "module"
+      },
+      {
+        "id": "poi-teleport",
+        "manifest": "https://github.com/zeel01/poi-teleport/releases/latest/download/module.json",
+        "type": "module"
+      },
+      {
+        "id": "LockView",
+        "manifest": "https://github.com/CDeenen/LockView/releases/latest/download/module.json",
+        "type": "module"
+      }
     ]
   },
-  "dependencies": [
-    {
-      "name": "multilevel-tokens",
-      "manifest": "https://github.com/ChunkLightTuna/foundryvtt-multilevel-tokens/releases/latest/download/module.json",
-      "type": "module"
-    },
-    {
-      "name": "scene-packer",
-      "manifest": "https://github.com/League-of-Foundry-Developers/scene-packer/releases/latest/download/module.json",
-      "type": "module"
-    },
-    {
-      "name": "poi-teleport",
-      "manifest": "https://github.com/zeel01/poi-teleport/releases/latest/download/module.json",
-      "type": "module"
-    },
-    {
-      "name": "LockView",
-      "manifest": "https://github.com/CDeenen/LockView/releases/latest/download/module.json",
-      "type": "module"
-    }
-  ],
   "esmodules": [
     "/scripts/init.js"
   ],
