@@ -81,6 +81,7 @@
       "label": "Beneos Battlemaps NPCs",
       "path": "packs/beneos-battlemaps-npcs.db",
       "type": "Actor",
+      "system": "dnd5e",
       "module": "beneosbattlemaps"
     },
     {
