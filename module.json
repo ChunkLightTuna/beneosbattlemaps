@@ -1,35 +1,44 @@
 {
-  "name": "beneosbattlemaps",
+  "id": "beneosbattlemaps",
   "title": "Beneos Battlemaps",
   "description": "Compendium pack with high quality animated battlemaps and sceneries",
-  "author": "Beneos | Ben#0159",
-  "version": "2.0.15",
-  "minimumCoreVersion": "0.8.9",
-  "url": "https://github.com/BeneosBattlemaps/beneosbattlemaps",
-  "manifest": "https://github.com/BeneosBattlemaps/beneosbattlemaps/releases/download/current_release/module.json",
-  "download": "https://github.com/BeneosBattlemaps/beneosbattlemaps/archive/refs/heads/main.zip",
-  "compatibleCoreVersion": "9",
+  "authors": [
+    {
+      "name": "Beneos",
+      "discord": "Ben#0159"
+    }
+  ],
+  "version": "2.0.16",
+  "manifestPlusVersion": "1.2.0",
+  "compatibility": {
+    "minimum": 10,
+    "verified": 10
+  },
+  "url": "#{URL}#",
+  "manifest": "#{MANIFEST}#",
+  "download": "#{DOWNLOAD}#",
   "dependencies": [
     {
       "name": "multilevel-tokens",
-	  "manifest": "https://raw.githubusercontent.com/grandseiken/foundryvtt-multilevel-tokens/v1.5.2/module.json",
+      "manifest": "https://github.com/ChunkLightTuna/foundryvtt-multilevel-tokens/releases/latest/download/module.json",
       "type": "module"
     },
-	{
+    {
       "name": "scene-packer",
-	  "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/scene-packer/master/module.json",
-	  "type": "module"
-	},
-	{
+      "manifest": "https://github.com/League-of-Foundry-Developers/scene-packer/releases/latest/download/module.json",
+      "type": "module"
+    },
+    {
       "name": "poi-teleport",
-	  "manifest": "https://github.com/zeel01/poi-teleport/releases/download/v0.1.7/module.json",
-	  "type": "module"
-	},
-	{
+      "manifest": "https://github.com/zeel01/poi-teleport/releases/latest/download/module.json",
+      "type": "module"
+    },
+    {
       "name": "LockView",
-	  "manifest": "https://raw.githubusercontent.com/CDeenen/LockView/master/module.json",
-	  "type": "module"
-	}],
+      "manifest": "https://github.com/CDeenen/LockView/releases/latest/download/module.json",
+      "type": "module"
+    }
+  ],
   "esmodules": [
     "/scripts/init.js"
   ],
