@@ -56,28 +56,28 @@
   ],
   "packs": [
     {
-      "id": "beneosbattlemaps4K",
+      "name": "beneosbattlemaps4K",
       "label": "Beneos Battlemaps 4K",
       "path": "packs/beneosbattlemaps4K.db",
       "type": "Scene",
       "module": "beneosbattlemaps"
     },
     {
-      "id": "beneosbattlemapsScenery4K",
+      "name": "beneosbattlemapsScenery4K",
       "label": "Beneos Battlemaps Scenery 4K",
       "path": "packs/beneosbattlemapsScenery4K.db",
       "type": "Scene",
       "module": "beneosbattlemaps"
     },
     {
-      "id": "beneosbattlemapsHD",
+      "name": "beneosbattlemapsHD",
       "label": "Beneos Battlemaps HD",
       "path": "packs/beneosbattlemapsHD.db",
       "type": "Scene",
       "module": "beneosbattlemaps"
     },
     {
-      "id": "beneos-battlemaps-npcs",
+      "name": "beneos-battlemaps-npcs",
       "label": "Beneos Battlemaps NPCs",
       "path": "packs/beneos-battlemaps-npcs.db",
       "type": "Actor",
@@ -85,21 +85,21 @@
       "module": "beneosbattlemaps"
     },
     {
-      "id": "beneosbattlemaps_journal",
+      "name": "beneosbattlemaps_journal",
       "label": "Beneos Battlemaps Journals",
       "path": "packs/beneosbattlemaps_journal.db",
       "type": "JournalEntry",
       "module": "beneosbattlemaps"
     },
     {
-      "id": "beneosbattlemaps_macros",
+      "name": "beneosbattlemaps_macros",
       "label": "Beneos Battlemaps Macros",
       "path": "packs/beneosbattlemaps_macros.db",
       "type": "Macro",
       "module": "beneosbattlemaps"
     },
     {
-      "id": "beneosbattlemapsSceneryHD",
+      "name": "beneosbattlemapsSceneryHD",
       "label": "Beneos Battlemaps Scenery HD",
       "path": "packs/beneosbattlemapsSceneryHD.db",
       "type": "Scene",
